@@ -4,10 +4,10 @@
 
 #define SP30_COMMS I2C_COMMS
 
-const char* ssid = "kku-wifi@true";
-const char* pass = "";
-String urlPost = "http://202.28.95.210:1880/pm2p3/";
-String nodeName = "41";
+const char* ssid = "{SSID}";
+const char* pass = "{PASS}";
+String urlPost = "{IP/URL}";
+String nodeName = "{Node ID}";
 
 SPS30 sps30;
 HTTPClient http;
