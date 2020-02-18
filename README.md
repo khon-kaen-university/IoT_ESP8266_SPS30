@@ -14,6 +14,6 @@ SPS30 Library :: https://github.com/paulvha/sps30
 > Mr. Wanut Padee
 
 **Diagram**
-> Patompong Pensirivunnakul
+> Mr. Patompong Pensirivunnakul
 
 ![image](https://github.com/khon-kaen-university/IoT_ESP8266_SPS30/blob/master/wemos-sps30-wiring.jpg)
