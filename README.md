@@ -10,4 +10,4 @@ Citations and References ::
 
 SPS30 Library :: https://github.com/paulvha/sps30
 
-![image]wemos-sps30-wiring.jpg
+![image](https://github.com/khon-kaen-university/IoT_ESP8266_SPS30/blob/master/wemos-sps30-wiring.jpg)
